@@ -1,0 +1,121 @@
+.text_lp{
+    text-align: center;
+}
+.text_lp h2{
+    font-family: 'Libre Baskerville';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 50px;
+    text-align: center;
+    letter-spacing: -0.152213px;
+    
+    color: #1C6633;
+}
+
+.text_lp h5{
+    font-family: 'Libre Baskerville';
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+text-align: center;
+letter-spacing: -0.152213px;
+
+/* naranja */
+
+color: #E58D0C;
+}
+.text_lp p{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 22px;
+/* or 137% */
+
+text-align: center;
+
+/* texto */
+
+color: #A2A0A0;
+}
+
+.nav-tabs {
+    border-bottom: 1px solid #dee2e6;
+}
+
+.historia_{
+    text-align: center;
+}
+.historia_ h2{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.historia_ img{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.historia_ p{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 22px;
+/* or 157% */
+
+text-align: center;
+
+/* texto */
+
+color: #A2A0A0;
+
+}
+
+.historia_ h2{
+    font-family: 'Libre Baskerville';
+font-style: normal;
+font-weight: normal;
+font-size: 28px;
+line-height: 35px;
+text-align: center;
+letter-spacing: -0.152213px;
+
+color: #1C6633;
+
+}
+
+.tabla_{
+text-align: left;
+}
+
+.tabla_ th{
+    font-family: 'Libre Baskerville';
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+
+/* verde */
+
+color: #1C6633;
+}
+
+tr td:first-child {
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 22px;
+    color:#E58D0C;
+    
+  }
+
+.tabla_ td{
+    color: #A2A0A0;;
+}
+
+.table thead th {
+    border-top: white;
+    border-bottom: 2px solid #1C6633;
+}
